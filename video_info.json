@@ -1,0 +1,88 @@
+[
+    {
+        "video_path": "./sample_videos/people_walking.mp4",
+        "ontology": {
+            "a person": "person",
+            "a bag": "bag",
+            "a street light": "street_light",
+            "a dustbin": "dustbin",
+            "a flag": "flag",
+            "a traffic light": "traffic_light"
+        }
+    },
+    {
+        "video_path": "./sample_videos/bonn_beethoven.mp4",
+        "ontology": {
+            "a traffic cone": "traffic_cone",
+            "a person": "person",
+            "a tree": "tree",
+            "a street lamp": "street_lamp",
+            "a flag": "flag",
+            "a bus": "bus",
+            "a traffic light": "traffic_light",
+            "a car": "car"
+        }
+    },
+    {
+        "video_path": "./sample_videos/cocktail.mp4",
+        "ontology": {
+            "a person": "person",
+            "a glass": "glass",
+            "a fruits": "fruits",
+            "a bottle": "bottle",
+            "a bowl": "bowl",
+            "a knife": "knife",
+            "a sugar cube": "sugar_cube",
+            "a lighter": "lighter",
+            "a spoon": "spoon"
+        }
+    },
+    {
+        "video_path": "./sample_videos/fruit_cutting.mp4",
+        "ontology": {
+            "a fruit": "fruit",
+            "a person": "person",
+            "a cup": "cup",
+            "a tea pot": "tea_pot",
+            "a frying pan": "frying_pan",
+            "a watch": "watch",
+            "a knife": "knife",
+            "a plate": "plate"
+        }
+    },
+    {
+        "video_path": "./sample_videos/moto_gp.mp4",
+        "ontology": {
+            "a motorbike": "motorbike",
+            "a person": "person",
+            "a car": "car",
+            "a flag": "flag"
+        }
+    },
+    {
+        "video_path": "./sample_videos/race_highlights.mp4",
+        "ontology": {
+            "a race car": "race_car",
+            "a person": "person"
+        }
+    },
+    {
+        "video_path": "./sample_videos/smash_burgers.mp4",
+        "ontology": {
+            "a cutting board": "cutting_board",
+            "a knife": "knife",
+            "a frying pan": "frying_pan",
+            "a saucepan": "saucepan",
+            "a hand": "hand",
+            "a bottle": "bottle",
+            "a meat": "meat",
+            "a lid": "lid",
+            "a buns": "buns",
+            "a meat ball": "meat_ball",
+            "a onion": "onion",
+            "a spoon": "spoon",
+            "a spatula": "spatula",
+            "a cheese": "cheese"
+        }
+    }
+]
