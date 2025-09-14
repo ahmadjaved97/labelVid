@@ -82,4 +82,4 @@ python run_florence_video.py --in_dir sample_videos --out_dir outputs/florence -
 
 ## Example Output
 
-[▶️ Watch a sample annotated video](assets/race_highlights.annotated.mp4)
+[▶️ Watch a sample annotated video](https://drive.google.com/file/d/1dnnKGwiLQCa8QxgAL2iXNqBEkcIW5cPn/view?usp=drive_link)
