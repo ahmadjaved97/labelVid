@@ -82,4 +82,4 @@ python run_florence_video.py --in_dir sample_videos --out_dir outputs/florence -
 
 ## Example Output
 
-Here’s a sample annotated video (AutoDistill pipeline):
+[▶️ Watch a sample annotated video](assets/race_highlights.annotated.mp4)
