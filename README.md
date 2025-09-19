@@ -14,10 +14,10 @@ You can use it to get:
 
 ## How the repo looks
 
-- run_autodistill_video8.py # AutoDistill pipeline
+- run_autodistill_video.py # AutoDistill pipeline
 - run_gdino_video.py # Grounding DINO pipeline
-- run_florence_video4.py # Florence-2 pipeline
-- video_info3.json # Example jobs file
+- run_florence_video.py # Florence-2 pipeline
+- video_info.json # Example jobs file
 - outputs/ # Annotated results go here
 
 
